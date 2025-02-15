@@ -13,8 +13,9 @@ I’m currently exploring the world of **explainable AI** and **AI for cybersecu
 📝 **Projects & Research:**  
 I'm always working on something exciting. Here are a few highlights:
 - **[A Comprehensive Approach to Evaluating Usability and Hyperparameter Selection for Synthetic Data Generation](https://hammer.purdue.edu/articles/thesis/A_Comprehensive_Approach_to_Evaluating_Usability_and_Hyperparameter_Selection_for_Synthetic_Data_Generation/26339674?file=47819851)**: A deep dive into **synthetic data quality analysis** using **GANs**.
-- (In Progress) **[Time-Series Tune-Up: Securing Time-Series Models with Unlearning](https://github.com/awatson246/forecast-unlearning)**: Analyzing the effectiveness of **AI-based defenses** in cybersecurity. 
 - **[Renewable Energy Modelling](https://github.com/awatson246/Renewable-Energy-Project.git)**: Exploring the impacts of the **Energy Policy Act of 2005** on **renewable energy consumption**.
+- (In Progress) **[Time-Series Tune-Up: Securing Time-Series Models with Unlearning](https://github.com/awatson246/forecast-unlearning)**: Analyzing the effectiveness of **AI-based defenses** in cybersecurity. 
+- (In Progress) **[Explainable Anomaly Detectionfor Cryptocurrency Graph Data](https://github.com/awatson246/crypto-anomaly-detection-policy)**: A cute little stack of **AD**, **XAI** and **maybe some other things**. 
 
 🎯 **Long-term goals:**  
 I’m committed to applying my skills to create **ML-driven solutions** that make systems more efficient, safe, and sustainable. As I continue to grow my expertise, I aim to contribute to advancements in **ML ethics**, **sustainability**, and **cybersecurity**.
