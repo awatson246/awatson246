@@ -22,8 +22,8 @@ I’m committed to applying my skills to create **ML-driven solutions** that mak
 
 ✨ When I’m not considering dropping my computer into a lake or reading the never-ending steam of new research articles, I enjoy running marathons, dancing, and experimenting with new vegan recipes. 
 
-📖 **Book Reccomendations**
-Unrelated: here are some books I reccomend for anyone looking for something a bit less technical to fill their free time:
+📖 **Book Recomendations:**
+Here are some books I recomend for anyone looking for something a bit less technical to fill their free time:
 - The Pine Barrens *John McPhee*
 - Travels with Charley in Search of America *John Steinbeck*
 - Everyone Loves You When You're Dead *Neil Strauss*
